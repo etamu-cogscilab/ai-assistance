@@ -1,0 +1,4 @@
+﻿thisRow.t,notes,step1.started,instruct_mouse.started,next_text.started,problem.started,key_resp.started,step1.stopped,instruct_mouse.x,instruct_mouse.y,instruct_mouse.leftButton,instruct_mouse.midButton,instruct_mouse.rightButton,instruct_mouse.time,instruct_mouse.clicked_name,problem.text,key_resp.keys,participant,session,date,expName,psychopyVersion,expStart,
+,,0.009363900000607828,0.009098999999878288,0.015472500000214495,1.0133943000000727,1.0133943000000727,13.69390680000015,[0.049074074074074076],[-0.4],[1],[0],[0],[13.683818500000598],['next_text'],"Question> This is my question.
+This is really a question.
+",None,405718,001,2025-04-09_20h18.05.662,problem,2024.2.4,2025-04-09 20h18.11.093548 -0500,

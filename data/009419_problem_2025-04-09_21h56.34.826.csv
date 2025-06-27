@@ -1,0 +1,11 @@
+﻿thisN,thisTrialN,thisRepN,question.thisRepN,question.thisTrialN,question.thisN,question.thisIndex,thisRow.t,notes,step1.started,problem.started,key.started,answer.started,step1.stopped,question.problem.text,question.key.keys,question.key.rt,question.key.duration,question.answer.text,participant,session,date,expName,psychopyVersion,expStart,
+4,0,4,4,0,4,0,21.93894360000013,,21.92533419999927,21.93894360000013,21.93894360000013,21.93894360000013,24.35564119999981,"Question> This is a problem.
+",return,2.3122282000003906,0.0961105000005773,"
+Question> Hello
+
+Question> World
+
+Question> How are you today? I am fine.  Do you think you can answer for me
+
+Question> Yes you can. I Know you can
+",,,,,,,

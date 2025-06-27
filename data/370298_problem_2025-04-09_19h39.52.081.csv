@@ -1,0 +1,17 @@
+﻿thisRow.t,notes,step1.started,instruct_mouse.started,next_text.started,problem.started,step1.stopped,instruct_mouse.x,instruct_mouse.y,instruct_mouse.leftButton,instruct_mouse.midButton,instruct_mouse.rightButton,instruct_mouse.time,instruct_mouse.clicked_name,problem.text,participant,session,date,expName,psychopyVersion,expStart,
+,,0.011163099999976112,0.010901199999807432,0.02586860000019442,1.0087533000000803,47.61126899999999,[0.018518518518518517],[-0.37962962962962965],[1],[0],[0],[47.59938719999991],['next_text'],"Question> This is my question, how does it look.
+What happens with overflow here?
+We need to have overflow
+I don't want overflow.
+Where is the prompt?
+This is not good.
+x
+x
+x
+xs
+x
+x
+This is not good.
+What is happenning.
+I need a scroller
+",370298,001,2025-04-09_19h39.52.081,problem,2024.2.4,2025-04-09 19h39.58.766807 -0500,

@@ -1,0 +1,16 @@
+﻿thisRow.t,notes,step1.started,instruct_mouse.started,next_text.started,problem.started,step1.stopped,instruct_mouse.x,instruct_mouse.y,instruct_mouse.leftButton,instruct_mouse.midButton,instruct_mouse.rightButton,instruct_mouse.time,instruct_mouse.clicked_name,problem.text,participant,session,date,expName,psychopyVersion,expStart,
+,,0.009721599999920727,0.009442000000035478,0.017135399999915535,1.000489799999741,122.26023039999973,"[0.262037037037037, -0.014814814814814815]","[0.18611111111111112, -0.3787037037037037]","[1, 1]","[0, 0]","[0, 0]","[43.459655499999826, 122.24976689999994]","[None, 'next_text']","Question> My question is, how does this work?
+We have a scrolling and it goes to new line. 
+But what about when we fill it?
+Does it scroll now?
+It doesn't really seem to scroll well.
+What is happenning.
+
+We need to have the scroller stay on the bottom.
+This is kind of ok, but I am not sure it works.
+Should we change the text size?
+
+Question>
+What is this world coming too?
+This is my question.
+",651738,001,2025-04-09_19h41.41.407,problem,2024.2.4,2025-04-09 19h41.47.070996 -0500,

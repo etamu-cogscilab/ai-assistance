@@ -1,0 +1,5 @@
+﻿thisRow.t,notes,step1.started,instruct_mouse.started,next_text.started,problem.started,step1.stopped,instruct_mouse.x,instruct_mouse.y,instruct_mouse.leftButton,instruct_mouse.midButton,instruct_mouse.rightButton,instruct_mouse.time,instruct_mouse.clicked_name,problem.text,participant,session,date,expName,psychopyVersion,expStart,
+,,0.009745100000145612,0.009453600000142615,0.023531199999979435,1.0065245000000687,29.43077799999992,[0.008333333333333333],[-0.42777777777777776],[1],[0],[0],[29.420514599999933],['next_text'],"Question> Some text
+An answer
+A question.
+",965161,001,2025-04-09_19h44.16.393,problem,2024.2.4,2025-04-09 19h44.24.278744 -0500,

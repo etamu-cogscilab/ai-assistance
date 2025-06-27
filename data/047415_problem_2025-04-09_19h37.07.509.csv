@@ -1,0 +1,24 @@
+﻿thisRow.t,notes,step1.started,instruct_mouse.started,next_text.started,problem.started,step1.stopped,instruct_mouse.x,instruct_mouse.y,instruct_mouse.leftButton,instruct_mouse.midButton,instruct_mouse.rightButton,instruct_mouse.time,instruct_mouse.clicked_name,problem.text,participant,session,date,expName,psychopyVersion,expStart,
+,,0.011850899999899411,0.01159460000008039,0.019550199999912365,1.0147266999999829,65.34356939999998,[0.046296296296296294],[-0.3888888888888889],[1],[0],[0],[65.33084929999995],['next_text'],"Question> Hello
+World
+How are  you today
+I am fine
+How are you
+This is a test
+This is only a test
+What is happenning here
+This is a long line, it goes on for more than can fit.  We have overflow
+We are continuing to type
+What happens when we go over top
+Does it keep going
+It appears to
+It goes below as well.
+How do we fix this
+?
+?
+?
+?
+?
+?
+?
+",047415,001,2025-04-09_19h37.07.509,problem,2024.2.4,2025-04-09 19h37.12.316655 -0500,

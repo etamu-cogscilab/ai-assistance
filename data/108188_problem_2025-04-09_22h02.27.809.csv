@@ -1,0 +1,12 @@
+﻿thisN,thisTrialN,thisRepN,question.thisRepN,question.thisTrialN,question.thisN,question.thisIndex,thisRow.t,notes,step1.started,problem.started,key.started,answer.started,step1.stopped,question.problem.text,question.key.keys,question.key.rt,question.key.duration,question.answer.text,participant,session,date,expName,psychopyVersion,expStart,
+4,0,4,4,0,4,0,17.072606800000358,,17.059601900000416,17.072606800000358,17.072606800000358,17.072606800000358,17.05716680000114,"Question> How will I do it
+",return,3.6411082000013266,0.08698670000012498,"
+Question> Test me
+
+AI Answer> answer goes here
+Question> This is another question.
+
+AI Answer> answer goes here
+Question> What will I do
+
+AI Answer> answer goes here",,,,,,,

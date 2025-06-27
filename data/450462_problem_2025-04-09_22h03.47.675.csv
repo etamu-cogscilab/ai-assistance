@@ -1,0 +1,19 @@
+﻿thisN,thisTrialN,thisRepN,question.thisRepN,question.thisTrialN,question.thisN,question.thisIndex,thisRow.t,notes,step1.started,problem.started,key.started,answer.started,step1.stopped,question.problem.text,question.key.keys,question.key.rt,question.key.duration,question.answer.text,participant,session,date,expName,psychopyVersion,expStart,
+4,0,4,4,0,4,0,21.13271160000113,,21.119413899999927,21.13271160000113,21.13271160000113,21.13271160000113,25.401327499999752,"Question> It goes past end
+",return,4.161996999999246,0.0878327000009449,"
+Question> This is an ai question
+
+AI Answer> answer goes here
+
+Question> This is only another question
+
+AI Answer> answer goes here
+
+Question> What will I do when it scorlls.
+
+AI Answer> answer goes here
+
+Question> Lets check and see
+
+AI Answer> answer goes here
+",,,,,,,
